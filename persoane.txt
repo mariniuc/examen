@@ -1,0 +1,2 @@
+Persoana - nume='mariniuc', prenume='dan', varsta=27
+Persoana - nume='barbu', prenume='ionut', varsta=36
